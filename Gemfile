@@ -18,6 +18,9 @@ end
 
 gem 'jquery-rails'
 
+# Javascript runtime fix
+gem 'therubyracer', '>=0.8.2'
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
